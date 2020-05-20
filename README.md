@@ -1,1 +1,1 @@
-# MIPS
+# MIPSmips
